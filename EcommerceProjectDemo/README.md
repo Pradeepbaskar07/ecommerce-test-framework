@@ -82,7 +82,7 @@ mvn clean test
 
 ## 📸 Screenshots & Reports
 
-(Include later if you configure screenshot capture and ExtentReports.)
+will update soon!
 
 ## 🙌 Author
 
